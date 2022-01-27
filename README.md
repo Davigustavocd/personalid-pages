@@ -1,7 +1,7 @@
 # Seja bem vindo
 
 ## Davi Gustavo Barbosa 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Meu nome é Davi Gustavo. Tenho 16 anos. Minha casa fica na parte nordeste de Contagem, onde todas as moradias são, e eu não sou casado. Eu estudo como tecnico de informatica do curso, e chego em casa todos os dias às oito da noite, no máximo. Eu não fumo, não bebo. Estou na cama às 23h e me certifico de ter oito horas de sono, não importa o que aconteça. Depois de tomar um copo de leite morno e fazer cerca de vinte minutos de alongamentos antes de ir para a cama, geralmente não tenho problemas para dormir até de manhã. Assim como um bebê, eu acordo sem qualquer fadiga ou estresse pela manhã. Foi-me dito que não houve problemas no meu último check-up. Estou tentando explicar que sou uma pessoa que deseja viver uma vida muito tranquila. Eu cuido para não me incomodar com quaisquer inimigos, como ganhar e perder, que me faria perder o sono à noite. É assim que eu lido com a sociedade e sei que é isso que me traz felicidade. Embora, se eu fosse lutar, não perderia para ninguém.
 
 ### Markdown
 
