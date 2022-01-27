@@ -9,21 +9,14 @@ Meu nome é Davi Gustavo. Tenho 16 anos. Minha casa fica na parte nordeste de Co
 Nada apenas meus gostos pessoais
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Eu gosto de
+- List pizza 
+- jogos
+- cinema
+- pipoca
+- água
+- corrida
+- cachorros e gatos
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
