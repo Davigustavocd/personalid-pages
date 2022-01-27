@@ -10,7 +10,7 @@ Nada apenas meus gostos pessoais
 
 ```markdown
 Eu gosto de
-- List pizza 
+- pizza 
 - jogos
 - cinema
 - pipoca
@@ -19,12 +19,12 @@ Eu gosto de
 - cachorros e gatos
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Gosto de perde meu tempo fazendo nada
 
-### Jekyll Themes
+### detalhes de personalidade
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Davigustavocd/personalid-pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+tento se divertido,legal e manter a calma também
 
-### Support or Contact
+### Suporte ou contato
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Meu email:davigustavo644@gmail.com
